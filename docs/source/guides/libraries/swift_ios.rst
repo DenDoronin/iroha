@@ -1,5 +1,5 @@
-Iroha-ios Installation Guide
-----------------------------
+iOS Swift Library
+-----------------
 
 Objectives
 ^^^^^^^^^^
